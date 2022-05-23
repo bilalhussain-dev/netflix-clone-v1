@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 ### `Netflix App Preview`
 Click [https://netflix-clone-2000e.web.app/] to view in the Browser
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
