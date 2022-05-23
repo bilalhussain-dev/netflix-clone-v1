@@ -48,16 +48,16 @@ function Row({title, fetchUrl, isLargeRow}) {
   const getMovieTrailer = (movie) => {
 
     // alert('Hi')
-    if(trailerURL) {
-      setTrailerURL("")
-    }else {
-      movieTrailer(movie?.name || "")
-      .then(url => {
+    // if(trailerURL) {
+    //   setTrailerURL("")
+    // }else {
+    //   movieTrailer(movie?.name || "")
+    //   .then(url => {
 
-      }).catch(err => err)
-    }
-    movie.preventDefault();
-    return true;
+    //   }).catch(err => err)
+    // }
+    // movie.preventDefault();
+    // return true;
   };
 
   return (

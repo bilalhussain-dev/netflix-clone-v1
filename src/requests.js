@@ -1,6 +1,6 @@
 // import axios from "axios";
 // API KEY
-const API_KEY = 'affc2d114dc3120fef4323a2762b5a82';
+const API_KEY = '';
 const requests = {
   fetchTrending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,
   fetchNetflixOriginals: `/discover/tv?api_key=${API_KEY}&with_networks=213`,
